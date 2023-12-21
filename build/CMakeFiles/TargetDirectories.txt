@@ -1,0 +1,3 @@
+/Users/noahdujovny/Documents/helium/build/CMakeFiles/helium.dir
+/Users/noahdujovny/Documents/helium/build/CMakeFiles/edit_cache.dir
+/Users/noahdujovny/Documents/helium/build/CMakeFiles/rebuild_cache.dir
